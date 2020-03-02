@@ -3,3 +3,4 @@ Esse repositório servirá para deixar organizado tudo o que eu for aprendendo d
 
 ## Sobre as pastas
 - Calculadora Simples: uma calculadora que faz cálculos básicos usando as quatro operações matemáticas
+- Formulário: um formulário que pede informações e retorna os dados inseridos
