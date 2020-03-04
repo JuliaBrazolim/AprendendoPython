@@ -1,37 +1,37 @@
 # Estrutura Sequencial
 
-Este arquivo possui uma série de programas, produzidos por base na lista de exercícios propostos
+Este arquivo possui uma sÃ©rie de programas, produzidos por base na lista de exercÃ­cios propostos
 pelo site (Python Brasil) [https://wiki.python.org.br/EstruturaSequencial]
 
-## Exercícios feitos (Os 14 primeiros)
+## ExercÃ­cios feitos (Os 14 primeiros)
 
-- [] Fazer um programa que mostre a mensagem "Alo mundo" na tela
-- [] Fazer um programa que peça um número e então mostre a mensagem O número informado foi [número]
-- [] Faça um Programa que peça dois números e imprima a soma. 
-- [] Faça um Programa que peça as 4 notas bimestrais e mostre a média
-- [] Faça um Programa que converta metros para centímetros
-- [] Faça um Programa que peça o raio de um círculo, calcule e mostre sua área
-- [] Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário
-- [] Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês. 
-- [] Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius C = (5 * (F-32) / 9)
-- [] Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit
-- [] Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+- [ ] Fazer um programa que mostre a mensagem "Alo mundo" na tela
+- [ ] Fazer um programa que peÃ§a um nÃºmero e entÃ£o mostre a mensagem O nÃºmero informado foi [nÃºmero]
+- [ ] FaÃ§a um Programa que peÃ§a dois nÃºmeros e imprima a soma. 
+- [ ] FaÃ§a um Programa que peÃ§a as 4 notas bimestrais e mostre a mÃ©dia
+- [ ] FaÃ§a um Programa que converta metros para centÃ­metros
+- [ ] FaÃ§a um Programa que peÃ§a o raio de um cÃ­rculo, calcule e mostre sua Ã¡rea
+- [ ] FaÃ§a um Programa que calcule a Ã¡rea de um quadrado, em seguida mostre o dobro desta Ã¡rea para o usuÃ¡rio
+- [ ] FaÃ§a um Programa que pergunte quanto vocÃª ganha por hora e o nÃºmero de horas trabalhadas no mÃªs. Calcule e mostre o total do seu salÃ¡rio no referido mÃªs. 
+- [ ] FaÃ§a um Programa que peÃ§a a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius C = (5 * (F-32) / 9)
+- [ ] FaÃ§a um Programa que peÃ§a a temperatura em graus Celsius, transforme e mostre em graus Farenheit
+- [ ] FaÃ§a um Programa que peÃ§a 2 nÃºmeros inteiros e um nÃºmero real. Calcule e mostre:
 
     o produto do dobro do primeiro com metade do segundo .
     a soma do triplo do primeiro com o terceiro.
     o terceiro elevado ao cubo.
-- [] Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58 
-- [] Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+- [ ] Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fÃ³rmula: (72.7*altura) - 58 
+- [ ] Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fÃ³rmulas:
 
     Para homens: (72.7*h) - 58
     Para mulheres: (62.1*h) - 44.7 
-- [] João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas
-- [] Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
+- [ ] JoÃ£o Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diÃ¡rio de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de SÃ£o Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. JoÃ£o precisa que vocÃª faÃ§a um programa que leia a variÃ¡vel peso (peso de peixes) e calcule o excesso. Gravar na variÃ¡vel excesso a quantidade de quilos alÃ©m do limite e na variÃ¡vel multa o valor da multa que JoÃ£o deverÃ¡ pagar. Imprima os dados do programa com as mensagens adequadas
+- [ ] FaÃ§a um Programa que pergunte quanto vocÃª ganha por hora e o nÃºmero de horas trabalhadas no mÃªs. Calcule e mostre o total do seu salÃ¡rio no referido mÃªs, sabendo-se que sÃ£o descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faÃ§a um programa que nos dÃª:
 
 
 
 
 
-### Créditos de texto referente aos exercícios
+### CrÃ©ditos de texto referente aos exercÃ­cios
 
 - Python Brasil: https://wiki.python.org.br/EstruturaSequencial
