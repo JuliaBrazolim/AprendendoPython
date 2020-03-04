@@ -6,6 +6,7 @@ pelo site (Python Brasil) [https://wiki.python.org.br/EstruturaSequencial]
 ## Exercícios feitos (Os 14 primeiros)
 
 - [X] Fazer um programa que mostre a mensagem "Alo mundo" na tela
+- [ ] Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número]. 
 
 ### Créditos de texto referente aos exercícios
 
