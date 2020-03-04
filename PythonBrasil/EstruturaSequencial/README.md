@@ -10,8 +10,8 @@ pelo site (Python Brasil) [https://wiki.python.org.br/EstruturaSequencial]
 - [X] Faça um Programa que peça dois números e imprima a soma.
 - [X] Faça um Programa que converta metros para centímetros.
 - [X] Faça um Programa que peça o raio de um círculo, calcule e mostre sua área. 
-- [X] Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário. 
-- [X] Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.  
+- [ ] Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário. 
+- [ ] Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.  
 
 
 ### Créditos de texto referente aos exercícios
