@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- 
 num1 = float(input('Insira um numero: '))
 num2 = float(input('Insira um outro numero: '))
 soma = (num1 + num2)
