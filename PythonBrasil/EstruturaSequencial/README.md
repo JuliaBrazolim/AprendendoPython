@@ -7,7 +7,8 @@ pelo site (Python Brasil) [https://wiki.python.org.br/EstruturaSequencial]
 
 - [X] Fazer um programa que mostre a mensagem "Alo mundo" na tela
 - [X] Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
-- [ ] Faça um Programa que peça dois números e imprima a soma.
+- [X] Faça um Programa que peça dois números e imprima a soma.
+- [X] Faça um Programa que converta metros para centímetros. 
 
 ### Créditos de texto referente aos exercícios
 
