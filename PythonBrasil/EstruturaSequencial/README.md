@@ -17,6 +17,9 @@ pelo site (Python Brasil) [https://wiki.python.org.br/EstruturaSequencial]
 
 #### Todos os programinhas dos demais exercícios vão estar nessa pasta também!
 
+##### Update
+Dos 18 exercícios, consegui programar e funcionar 15. Faltam outros três, os exercícios: 15, 17 e 18.
+
 
 ### Créditos de texto referente aos exercícios
 
