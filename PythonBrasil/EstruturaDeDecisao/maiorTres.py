@@ -1,6 +1,6 @@
-a = float(input('Insira um numeros: '))
-b = float(input('Insira um numeros: '))
-c = float(input('Insira um numeros: '))
+a = float(input('Insira um numero: '))
+b = float(input('Insira um numero: '))
+c = float(input('Insira um numero: '))
 
 if a > b and c:
     print('o numero', a, 'é o maior')
