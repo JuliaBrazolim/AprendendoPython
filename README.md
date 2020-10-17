@@ -1,3 +1,6 @@
+<img src="https://octodex.github.com/images/pythocat.png" alt="octodex rodeado por duas cobras" width="250"/>
+Creditos de imagem: https://octodex.github.com/pythocat/
+
 # Estudos de Python
 Esse repositório servirá para deixar organizado tudo o que eu for aprendendo de Python
 
