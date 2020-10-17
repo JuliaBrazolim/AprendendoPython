@@ -8,4 +8,4 @@ if media >= 7 and media <= 9:
 elif media <= 6:
     print('Reprovada')
 elif media == 10:
-    print('Aprovado com Distinção')
+    print('Aprovada com Louvor')
